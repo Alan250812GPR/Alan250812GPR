@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![LENGUAGES STAT]( https://github-readme-stats.vercel.app/api/top-langs?username=Alan250812GPR&theme=dark&show_icons=true&locale=en&layout=compact )
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alan250812GPR)](https://github.com/Alan250812GPR/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alan250812GPR&theme=react)](https://github.com/Alan250812GPR/github-readme-activity-graph)
