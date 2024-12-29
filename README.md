@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alan250812GPR&theme=taiga&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ![LENGUAGES STAT]( https://github-readme-stats.vercel.app/api/top-langs?username=Alan250812GPR&theme=dark&show_icons=true&locale=en&layout=compact )
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alan250812GPR)](https://github.com/Alan250812GPR/github-readme-activity-graph)
