@@ -12,6 +12,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... i'm don't sleep
 -->
 
+## Estadísticas de mi GitHub
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan250812GPR&show_icons=true&theme=radical)
+
+## Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan250812GPR&layout=compact&theme=radical)
+
 ## Github Stats 
 
 ![]( https://github-readme-streak-stats.herokuapp.com/?user=Alan250812GPR&theme=shadow-blue )
